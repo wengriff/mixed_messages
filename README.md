@@ -3,12 +3,14 @@
 Simple random poem generator with Javascript
 
 ## Table of contents
-- General info
-- Technologies
-- Status
-- Contact
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Status](#status)
+* [Contact](#contact)
 
 ## General info
+
+This program generates a new poem each time you run it. 
 
 ## Technologies
 Project is created with:
@@ -16,4 +18,8 @@ Project is created with:
 
 ## Status
 
+Project is finished
+
 ## Contact
+
+Created by @wengriff
