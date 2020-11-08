@@ -1,17 +1,19 @@
-#MixedMessages - random poem generator
+# MixedMessages - random poem generator
 
 Simple random poem generator with Javascript
 
-##Table of contents
+## Table of contents
 - General info
 - Technologies
 - Status
 - Contact
 
-##General info
+## General info
 
-##Technologies
+## Technologies
+Project is created with:
+* Javascript
 
-##Status
+## Status
 
-##Contact
+## Contact
