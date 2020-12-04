@@ -1,6 +1,6 @@
 # MixedMessages - random poem generator
 
-Simple random poem generator with Javascript
+Simple random poem generator created using Javascript
 
 ## Table of contents
 * [General info](#general-info)
