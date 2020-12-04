@@ -15,6 +15,7 @@ This program generates a new poem each time you run it.
 ## Technologies
 Project is created with:
 * Javascript
+* HTML
 
 ## Status
 
